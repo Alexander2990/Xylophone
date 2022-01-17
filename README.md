@@ -46,4 +46,4 @@ Dive into an easy iOS recipe for how to extract sound and use Apple's AVFoundati
 * Рефакторинг кода.
 * Базовая отладка.
 
-![Simulator Screen Shot - iPhone 11](https://user-images.githubusercontent.com/64682381/149760114-3735cbf6-1786-49f3-aa1c-b62887b64f3a.png)
+<img src="https://user-images.githubusercontent.com/64682381/149760114-3735cbf6-1786-49f3-aa1c-b62887b64f3a.png" width="500">
