@@ -1,7 +1,7 @@
 # Xylophone
 
 ## The App Brewery Complete App Development course project.
-## Using and Understanding Apple Documentation
+### Using and Understanding Apple Documentation
 
 Me first musical instrument!
 
@@ -25,7 +25,7 @@ Dive into an easy iOS recipe for how to extract sound and use Apple's AVFoundati
 ----------------------------------
 
 ## Учебный проект в рамках курса The App Brewery Complete App Development.
-## Использование и понимание документации Apple
+### Использование и понимание документации Apple
 
 Мой первый музыкальный инструмент!
 
