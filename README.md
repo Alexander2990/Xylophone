@@ -1,15 +1,15 @@
 # Xylophone
 
-## The App Brewery Complete App Development course project.
+### The App Brewery Complete App Development course project.
 ### Using and Understanding Apple Documentation
 
 Me first musical instrument!
 
-## My goal
+### My goal
 
 Dive into an easy iOS recipe for how to extract sound and use Apple's AVFoundation. I will do this with the help of StackOverflow and Apple's documentation, learning how to effectively search for solutions. By learning how to use these tools, I can start adding custom functionality to the application and get it to do what I want.
 
-## What I learned:
+### What I learned:
 
 * How to play sound with AVFoundation and AVAudioPlayer.
 * Studied the Apple documentation and how to use StackOverflow.
@@ -24,16 +24,16 @@ Dive into an easy iOS recipe for how to extract sound and use Apple's AVFoundati
 
 ----------------------------------
 
-## Учебный проект в рамках курса The App Brewery Complete App Development.
+### Учебный проект в рамках курса The App Brewery Complete App Development.
 ### Использование и понимание документации Apple
 
 Мой первый музыкальный инструмент!
 
-## Моя цель
+### Моя цель
 
 Погрузиться в простой рецепт iOS — как извлечь звук и использовать Apple под названием AVFoundation. Я сделаю это при помощи StackOverflow и документации Apple, научившись эффективно искать решения. Научившись использовать эти инструменты, я смогу начать добавлять пользовательские функции в приложение и заставить его делать то, что я хочу.
 
-## Чему я научился:
+### Чему я научился:
 
 * Как воспроизводить звук с помощью AVFoundation и AVAudioPlayer.
 * Изучил документацию Apple и как использовать StackOverflow.
